@@ -1,11 +1,10 @@
 <h3 align="center">Dev - Backend 💻</h3>
 <h2 align="center"> Supervisor de Desenvolvimento Backend</h2>
-- 🔭I'm currently working [Rio Saúde](https://sistema.riosaude.app.br/sirg/html/index.php)
+
 
 - 🌱 **Laravel**
 - 🌱 **VueJS 3**
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=fabriciopheaker&label=Profile%20views&color=0e75b6&style=flat" alt="fabriciopheaker" /> </p>
+
 
 <p align="left"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
